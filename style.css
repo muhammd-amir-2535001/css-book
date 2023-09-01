@@ -1,0 +1,12 @@
+body {
+    font-family: tahoma;
+    font-size: 32px;
+}
+div.outbox > p{
+    color: green;
+
+}
+/* div .outbox > p {
+    color: red;
+
+} */
